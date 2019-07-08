@@ -1,5 +1,4 @@
 # humanstxt.org/
-hello
 # The humans responsible & technology colophon
 
 # TEAM 
